@@ -1,7 +1,6 @@
 ### Pedro Victor Barbosa Fernandes
 - Estagiário Back-end
 - Cursando Ciência da Computação na Universidade de Fortaleza
-- 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
