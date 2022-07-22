@@ -1,6 +1,6 @@
 ### Pedro Victor Barbosa Fernandes
 - Estagiário Back-end
-- Cursando Ciência da Computação na Universidade de Fortaleza
+- Cursando Ciência da Computação na Universidade de Fortaleza(UNIFOR)
    ##
 <div align="center">
   <a href="https://github.com/Zireael16">
