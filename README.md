@@ -1,7 +1,6 @@
 ### Pedro Victor Barbosa Fernandes
-- Back-end Developer || NodeJs
-- Computer Science
-- 
+- Back-end Developer from Brazil
+- Computer Science 
    ##
 
 <div align="center">
