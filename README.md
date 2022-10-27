@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/pedrovictorbf">
-  <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=pedrovictorbf(https://github.com/pedrovictorbf/github-readme-stats)"/>
+  <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=pedrovictorbf"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovictorbf&layout=compact&langs_count=7&theme=graywhite"/>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrovictorbf&label=Profile%20views&color=0e75b6&style=flat" alt="pedrovictorbf" /> </p>
 </div>
