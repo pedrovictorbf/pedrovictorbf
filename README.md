@@ -1,6 +1,7 @@
 ### Pedro Victor Barbosa Fernandes
-- Estagiário Back-end
-- Cursando Ciência da Computação na Universidade de Fortaleza(UNIFOR)
+- Back-end Developer || NodeJs
+- Computer Science
+- 
    ##
 
 <div align="center">
