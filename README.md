@@ -1,6 +1,6 @@
 ### Pedro Victor Barbosa Fernandes
 - Back-end Developer from Brazil
-- Computer Science 
+- Software Engineer
    ##
 
 <div align="center">
