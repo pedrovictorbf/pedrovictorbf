@@ -29,5 +29,5 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovictorbf&show_icons=true&locale=en" alt="pedrovictorbf" /></p>
-<p style="padding-bottom:50px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovictorbf&show_icons=true&locale=en&layout=compact" alt="pedrovictorbf" /></p>
-<p style="padding:10px;" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrovictorbf" alt="pedrovictorbf" /></a> </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovictorbf&show_icons=true&locale=en&layout=compact" alt="pedrovictorbf" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrovictorbf" alt="pedrovictorbf" /></a> </p>
