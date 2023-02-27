@@ -26,7 +26,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-<div style="display:grid">
+<div style="display:grid; grid-template-columns:repeat(3, 1fr); grid-auto-rows:200px;">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovictorbf&show_icons=true&locale=en" alt="pedrovictorbf" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovictorbf&show_icons=true&locale=en&layout=compact" alt="pedrovictorbf" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrovictorbf" alt="pedrovictorbf" /></a> </p>
