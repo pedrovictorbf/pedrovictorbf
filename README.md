@@ -30,9 +30,9 @@
 
 <p style="padding:10px;"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovictorbf&show_icons=true&locale=en&layout=compact" alt="pedrovictorbf" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovictorbf&show_icons=true&locale=en" alt="pedrovictorbf" /></p>
+<p style="padding:10px;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovictorbf&show_icons=true&locale=en" alt="pedrovictorbf" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrovictorbf" alt="pedrovictorbf" /></a> </p>
+<p style="padding:10px;" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrovictorbf" alt="pedrovictorbf" /></a> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrovictorbf&" alt="pedrovictorbf" /></p>
