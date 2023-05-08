@@ -1,5 +1,5 @@
 <h1 align="center">Pedro Fernandes</h1>
-<h3 align="center">A Web Back-end Developer | Nodejs | Express | SQL | Linux |</h3>
+<h3 align="center">A Web Back-end Developer | Nodejs | Java | SQL | Linux |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrovictorbf&label=Profile%20views&color=0e75b6&style=flat" alt="pedrovictorbf" /> </p>
 
