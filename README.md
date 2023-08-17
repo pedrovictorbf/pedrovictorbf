@@ -24,6 +24,4 @@
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="40"/> </a> 
        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="50"/> </a> </p>
 <div>
-   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pedrovictorbf&show_icons=true&locale=en" alt="pedrovictorbf" /></p>
-   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrovictorbf&show_icons=true&locale=en&layout=compact" alt="pedrovictorbf" /></p>
 </div>
