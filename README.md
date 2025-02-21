@@ -1,11 +1,11 @@
 <h1 align="center">Pedro Fernandes</h1>
-<h3 align="center">A Web Back-end Developer | Nodejs | Java | SQL | Linux |</h3>
+<h3 align="center">Software engineer | Nestjs | Java | SQL | Linux | React </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrovictorbf&label=Profile%20views&color=0e75b6&style=flat" alt="pedrovictorbf" /> </p>
 
-- Software Engineer student at Instituto Infnet
-- I’m currently learning React and front-end development
-- Back-end Developer in Grupo Fornecedora ltda.
+- Software engineer in Grupo Fornecedora ltda.
+- Pursuing a Bachelor’s degree in Computer Science.
+- Currently learning React and front-end development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
